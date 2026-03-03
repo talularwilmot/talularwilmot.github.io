@@ -1,11 +1,25 @@
 ---
-title: "talularwilmot.github.io"
+title: "Talula Wilmot"
+image: headshot.jpg
+toc: false
+
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/talulawilmot/
+    - text: GitHub
+      href: https://github.com/talularwilmot
+    - text: Email
+      href: mailto:talulawilmot@ucsb.edu
 ---
 
-This is a Quarto website.
+# Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! My name is Talula and I am from Alameda, CA. I moved to Santa Barbara in 2022 to complete my undergraduate degree in Environmental Studies B.S. which I will be wrapping up this winter. This site serves as a portfolio of my academic and professional skills gained throughout my time here at UCSB as well as a look into who I am outside of the classroom. 
 
-```{r}
-1 + 1
-```
+# Currently 
+
+I am currently seeking employment opportunities in the conservation and education fields beginning in June 2026. I am currently working full-time as a lab technician with Lee Anderegg's Landscape Ecophysiology and Function (LEAF) lab assisting with projects across the lab from predicting turgor pressure in Oaks during dry and wet years, to assessing ancient forest regeneration in low to high severity burn areas. I am also conducting a personal experiment analyzing how monocots, specifically palms, transpire water across their entire xylem surface. 
