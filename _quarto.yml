@@ -13,7 +13,7 @@ website:
       - href: Projects.qmd
         text: Projects
       - href: Experience.qmd
-        text: Field Experiences
+        text: Field Experiences 
       - href: Resume.qmd
         text: Resume
 
