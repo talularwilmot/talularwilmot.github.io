@@ -1,9 +1,69 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Education
 
-```{r}
-1 + 1
-```
+I will be completing my Bachelor's degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.
+
+I have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I prepare begin my search for a full time position.
+
+------------------------------------------------------------------------
+
+## Courses
+
+------------------------------------------------------------------------
+
+### Statistics
+
+ENVS 193 DS - Environmental Data Science
+
+PSTAT 5LS - Statistics for Life Sciences
+
+EEMB 146 - Biometery (Biological statistics)
+
+EEMB 148 - Stream Ecology
+
+### Spatial Modeling
+
+ENVS 154 - GIS for Environmental Applications
+
+### Conservation Managment
+
+ENVS 130C - Aquatic Food Systems
+
+ENVS 140 - Wildfire Ecology
+
+ENVS 103A - California Flora and Vegitation Identification
+
+ENVS 163A - Water Supply and Demand
+
+WRIT 105SW - Scientific Writing for the Public
+
+## Professional Development
+
+While attending UCSB I have been fortunate enough to participate in a number of internships that have shaped my experience and the type work that I am looking for in the future.
+
+I have spent the last 3 years working in the LEAF lab participating in a number of field experiences that are shown in greater depth in the [Field Experiences](Experiences.qmd) section.
+
+I have also worked with The Nature Conservancy offering field trips on [Dangermond Preserve](https://www.nature.org/en-us/about-us/where-we-work/united-states/california/stories-in-california/dangermond-preserve/?en_txn1=p_gr.gd.eg.x.storiesandnews.dynamic.gh&gad_source=1&gad_campaignid=23483423232&gbraid=0AAAAADwfaooMMPhFaJXwy-SRR1Nb_5wXw&gclid=CjwKCAiAzZ_NBhAEEiwAMtqKy3anIz59Y6vZDicyOjsm05aLQ9PXL-63RwhVbx-7hPstQfYfXd0F6BoC390QAvD_BwE) to students across the Lompoc school district teaching about the local Oakwoodland ecosystem. Most recently I have been working with UCSB's Cheadle Center for Biodiversity and Ecological Restoration (CCBER) to give education walks to preschool students at both on campus child care centers.
+
+::: {style="text-align: center;"}
+![](IMG_3990.png){width="45%".photo-border} ![](IMG_2877.jpg){width="45%".photo-border}
+:::
+
+### Hobbies
+
+When I'm not in nature with students I still love to be there with myself and my friends.
+
+Most of my hobbies revolve around the great outdoors and include but are not limited to biking, climbing and
+
+::: {style="text-align: center;"}
+![](IMG_2849.jpg){width="45%".photo-border} ![](climbing%20.jpg){width="45%".photo-border}
+:::
+
+backpacking!
+
+::: {style="text-align: center;"}
+![](backpacking.jpg){width="45%".photo-border} ![](sequoia.jpg){.photo-border}
+:::

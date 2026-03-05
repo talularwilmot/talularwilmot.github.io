@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=LINE+Seed+JP&family=Spline+Sans:wght@300..700&display=swap');
+
+
+// Colors
+$dark-green: #2d4221;
+$light-green: #415d2e;
+$cream: #d7f1ec;
+$blue: #87cfed;
+$mintgreen: #87bfad;
+$orange: #a05824;
+$my-font-size: 20px;
+
+// Base document colors
+$navbar-bg: $dark-green;
+$navbar-fg: $cream;
+$navbar-hl: $orange;
+$body-bg: $cream;
+$body-color: $dark-green;
+$footer-bg: $blue;
+$link-color: $orange; 
+
+
+/*-- scss:rules --*/
+
+body {
+  font-size: $my-font-size;
+  font-family: 'LINE Seed JP'
+}
+h2 {
+  border-bottom: 2px solid $dark-green;
+  padding-bottom: 0.5rem;
+}
+.photo-border {
+  border: 3px solid #2d4221;   
+  border-radius: 8px;
+}
+.quarto-title-image {
+  border: 3px solid red !important;
+}

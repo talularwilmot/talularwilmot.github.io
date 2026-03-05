@@ -9,20 +9,22 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: About Me
       - href: Projects.qmd
         text: Projects
       - href: Experience.qmd
         text: Field Experiences 
       - href: Resume.qmd
         text: Resume
+      
 
 format:
   html:
     theme:
       - morph
-    css: style.css
-    toc: true
+      - styles.scss 
+    mainfont: LINE+Seed+JP 
+    toc: false
     page-layout: full
 
 editor: visual

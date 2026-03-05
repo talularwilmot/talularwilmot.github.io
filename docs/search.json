@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I prepare begin my search for a full time position."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,47 @@
     "title": "Talula Wilmot",
     "section": "",
     "text": "Bio\nHello! My name is Talula and I am from Alameda, CA. I moved to Santa Barbara in 2022 to complete my undergraduate degree in Environmental Studies B.S. which I will be wrapping up this winter. This site serves as a portfolio of my academic and professional skills gained throughout my time here at UCSB as well as a look into who I am outside of the classroom.\n\n\nCurrently\nI am currently seeking employment opportunities in the conservation and education fields beginning in June 2026. I am currently working full-time as a lab technician with Lee Anderegg’s Landscape Ecophysiology and Function (LEAF) lab assisting with projects across the lab from predicting turgor pressure in Oaks during dry and wet years, to assessing ancient forest regeneration in low to high severity burn areas. I am also conducting a personal experiment analyzing how monocots, specifically palms, transpire water across their entire xylem surface."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "View the PDF"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I prepare begin my search for a full time position."
+  },
+  {
+    "objectID": "about.html#courses",
+    "href": "about.html#courses",
+    "title": "About Me",
+    "section": "Courses",
+    "text": "Courses\n\n\nStatistics\nENVS 193 DS - Environmental Data Science\nPSTAT 5LS - Statistics for Life Sciences\nEEMB 146 - Biometery (Biological statistics)\nEEMB 148 - Stream Ecology\n\n\nSpatial Modeling\nENVS 154 - GIS for Environmental Applications\n\n\nConservation Managment\nENVS 130C - Aquatic Food Systems\nENVS 140 - Wildfire Ecology\nENVS 103A - California Flora and Vegitation Identification\nENVS 163A - Water Supply and Demand\nWRIT 105SW - Scientific Writing for the Public"
+  },
+  {
+    "objectID": "about.html#professional-development",
+    "href": "about.html#professional-development",
+    "title": "About Me",
+    "section": "Professional Development",
+    "text": "Professional Development\nWhile attending UCSB I have been fortunate enough to participate in a number of internships that have shaped my experience and the type work that I am looking for in the future.\nI have spent the last 3 years working in the LEAF lab participating in a number of field experiences that are shown in greater depth in the Field Experiences section.\nI have also worked with The Nature Conservancy offering field trips on Dangermond Preserve to students across the Lompoc school district teaching about the local Oakwoodland ecosystem. Most recently I have been working with UCSB’s Cheadle Center for Biodiversity and Ecological Restoration (CCBER) to give education walks to preschool students at both on campus child care centers.\n\n \n\n\nHobbies\nWhen I’m not in nature with students I still love to be there with myself and my friends.\nMost of my hobbies revolve around the great outdoors and include but are not limited to biking, climbing and\n\n \n\nbackpacking!"
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Field Experience",
+    "section": "",
+    "text": "Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer.\n\n\n\n\n\n\nHere are some photos from each of those locations:"
+  },
+  {
+    "objectID": "Experience.html#map",
+    "href": "Experience.html#map",
+    "title": "Field Experience",
+    "section": "",
+    "text": "Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer.\n\n\n\n\n\n\nHere are some photos from each of those locations:"
   }
 ]

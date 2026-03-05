@@ -1,4 +1,65 @@
 ---
 title: "Field Experience"
-format: html
 ---
+
+## Map 
+
+Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer. 
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(readr)
+library(dplyr)
+library(tidyverse)
+library(leaflet)
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+sites <-read_csv("field sites - Sheet1.csv")
+
+site_icon <- makeIcon(
+  iconUrl = here::here("star.png"),
+  iconWidth = 30, iconHeight = 30)
+
+site_map <- leaflet() %>% 
+  
+  # add base map tiles (use `addTiles()` for Google maps tiles, OR `addProviderTiles()` for 3rd party base maps: https://leaflet-extras.github.io/leaflet-providers/preview/) ----
+  addProviderTiles(providers$Esri.WorldImagery, group = "ESRI World Imagery") %>% 
+  addProviderTiles(providers$Esri.OceanBasemap, group = "ESRI Oceans") %>% 
+  
+  # add mini map ----
+  addMiniMap(toggleDisplay = TRUE, minimized = TRUE) %>% 
+  
+  # set view over west and south pacific ----
+ fitBounds(lng1 = -149.83, lat1 = 16.999,
+    lng2 = -118.21, lat2 = 36.49) %>% 
+  
+  # add markers ----
+  addMarkers(
+  data = sites,
+  group = "Sites",
+  icon = site_icon,
+  lng = ~lon,
+  lat = ~lat,
+  popup = ~paste0(site, "<br>",
+    "Coordinates: ", lat, ", ", lon
+  )) %>%
+
+  # add layers control (toggle base map tiles & markers based on group IDs) ----
+  addLayersControl(
+    baseGroups = c("ESRI World Imagery", "ESRI Oceans"),
+    overlayGroups = c("Sites"))
+
+  
+#view map 
+site_map
+```
+
+
+
+Here are some photos from each of those locations: 
