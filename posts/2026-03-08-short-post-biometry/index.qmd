@@ -1,0 +1,11 @@
+---
+title: "Biometry Final Project"
+author:
+  - name: Talula Wilmot
+date: 03-08-2026
+image: Thumbnail.png
+categories: [R] 
+draft: false
+---
+
+This is the final project that I completed for EEMB 146 Biometry showing code outputs, and complete write up assessing differences in transpiration rate between two major species on Tetiaroa, an atoll in the South Pacific"

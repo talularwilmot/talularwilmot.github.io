@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About Me
-      - href: Projects.qmd
+      - href: posts.qmd
         text: Projects
       - href: Experience.qmd
         text: Field Experiences 

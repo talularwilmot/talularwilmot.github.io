@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I prepare begin my search for a full time position."
+    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I begin my search for a full time position."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "",
-    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I prepare begin my search for a full time position."
+    "text": "I will be completing my Bachelor’s degree in Environmental studies this March after 3 and half years at UCSB. Throughout my undergraduate experience I did take the opportunity to study abroad this past summer in French Polynesia where we stayed on the islands of Tahiti and Moor-ea for a total of 6 weeks completing various field studies and learning about the society islands rich history.\nI have taken many formative classes during my time learning about a range of topics from the physics, chemistry, and biology, to environmental justice and what building sustainable communities looks like in the present time. Below are some specific classes that I have felt helped the most with professional my development as I begin my search for a full time position."
   },
   {
     "objectID": "about.html#courses",
@@ -54,5 +54,19 @@
     "title": "Field Experience",
     "section": "",
     "text": "Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer.\n\n\n\n\n\n\nHere are some photos from each of those locations:"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Biometry Final Project\n\n\n\nR\n\n\n\n\n\n\n\nTalula Wilmot\n\n\nMar 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nFactors Affeting Giant Sequoias\n\n\n\nWriting\n\n\n\n\n\n\n\nTalula Wilmot\n\n\nMar 8, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-03-08-short-post-biometry/index.html",
+    "href": "posts/2026-03-08-short-post-biometry/index.html",
+    "title": "Biometry Final Project",
+    "section": "",
+    "text": "This is the final project that I completed for EEMB 146 Biometry showing code outputs, and complete write up assessing differences in transpiration rate between two major species on Tetiaroa, an atoll in the South Pacific”"
   }
 ]

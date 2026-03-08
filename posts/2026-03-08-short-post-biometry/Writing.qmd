@@ -1,0 +1,10 @@
+---
+title: "Factors Affeting Giant Sequoias"
+author:
+  - name: Talula Wilmot
+date: 03-08-2026
+image: Tree.png
+categories: [Writing] 
+draft: false
+---
+
