@@ -1,0 +1,12 @@
+---
+title: "Big Tujunga Creek post fire analysis"
+author:
+  - name: Talula Wilmot
+date: 03-08-2026
+image: Tujunga.jpg
+description: Station Fire effects on biotic and abotic systems
+categories: [Writing] 
+draft: false
+---
+
+<iframe src="EEMB_148.pdf" width="100%" height="600px"></iframe>

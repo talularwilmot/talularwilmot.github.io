@@ -1,10 +1,11 @@
 ---
 title: "Field Experience"
+lightbox: true
 ---
 
-## Map 
+## Map
 
-Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer. 
+Below is an interactive map of all the field work that I have done over the last 4 years across the world. The majority of this work has been conducted with the LEAF lab but the points in Tahiti and Moorea are from my Wildlands studies experience this past summer.
 
 ```{r}
 #| echo: false
@@ -60,6 +61,7 @@ site_map <- leaflet() %>%
 site_map
 ```
 
+Here are some photos from each of those locations:
 
+![](IMG_2877.jpg){width="45%"}
 
-Here are some photos from each of those locations: 
