@@ -73,7 +73,7 @@ Over the summers of 2024 and 2025 I was able to be a part of a field crew based 
 
 
 
-In June of 2024 I was able to go with my graduate student mentor Mike Burnett to Tetiaroa to complete installation of the sapflow sensors we had been building for the year previous. Sapflow sensors are devices that when installed into a plant can track their hourly water uptake. On this trip we were insterested if coconut palms found in mass on the island due to an abandoned settle palm plantation used more of the islands limited water resources than the native Pisonia Grandis tree. A full report of my analysis can be seen in the [projects](Projects.qmd) section. 
+In June of 2024 I was able to go with my graduate student mentor Mike Burnett to Tetiaroa to complete installation of the sapflow sensors we had been building for the year previous. Sapflow sensors are devices that when installed into a plant can track their hourly water uptake. On this trip we were insterested if coconut palms found in mass on the island due to an abandoned settle palm plantation used more of the islands limited water resources than the native Pisonia Grandis tree. A full report of my analysis can be seen in the [projects](posts.qmd) section. 
 
 In the summer of 2025 prior to going to Sequoia national park I was able to return to French Polynesia to complete a 6 week field study program, completing various short experiements including pattern of sediment deposition and tropical fish counts at local beaches. 
 
