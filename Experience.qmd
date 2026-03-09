@@ -61,19 +61,29 @@ site_map <- leaflet() %>%
 site_map
 ```
 
-Here are some photos from each of those locations:
+
+
+Over the summers of 2024 and 2025 I was able to be a part of a field crew based out of Sequoia national park analyzing ancient forest response to fire in areas of low, medium, medium-high, and high severity burn. We measured water potential and hydraulic capacity (water availability within the plants, and amount of air within the xylem representing dead tissue.) and regeneration via germination count at plots from the beginning to the end of the summer. 
 
 
 ::: {style="text-align: center;"}
-![Sequoia National Park](seki.jpg){.photo-border width="45%"}
+## Photos From Sequoia Naitonal Park: 
+![](seki.png){.photo-border width="60%"}
+:::
 
-![Tetiaroa](tetiaroa.jpg){.photo-border width="45%"}
 
 
-<video controls width="70%">
-  <source src="IMG_0660.MOV" type="video/quicktime">
-</video>
-*Turtle Sanctuary in Moorea*
+In June of 2024 I was able to go with my graduate student mentor Mike Burnett to Tetiaroa to complete installation of the sapflow sensors we had been building for the year previous. Sapflow sensors are devices that when installed into a plant can track their hourly water uptake. On this trip we were insterested if coconut palms found in mass on the island due to an abandoned settle palm plantation used more of the islands limited water resources than the native Pisonia Grandis tree. A full report of my analysis can be seen in the [projects](Projects.qmd) section. 
+
+In the summer of 2025 prior to going to Sequoia national park I was able to return to French Polynesia to complete a 6 week field study program, completing various short experiements including pattern of sediment deposition and tropical fish counts at local beaches. 
+
+
+::: {style="text-align: center;"}
+
+## Photos from French Polynesia 
+
+![](FP.png){.photo-border width="60%"}
+
 
 :::
 
