@@ -1,6 +1,6 @@
 ---
 title: "Field Experience"
-lightbox: true
+lightbox: true 
 ---
 
 ## Map
@@ -63,5 +63,17 @@ site_map
 
 Here are some photos from each of those locations:
 
-![](IMG_2877.jpg){width="45%"}
+
+::: {style="text-align: center;"}
+![Sequoia National Park](seki.jpg){.photo-border width="45%"}
+
+![Tetiaroa](tetiaroa.jpg){.photo-border width="45%"}
+
+
+<video controls width="70%">
+  <source src="IMG_0660.MOV" type="video/quicktime">
+</video>
+*Turtle Sanctuary in Moorea*
+
+:::
 
