@@ -9,4 +9,8 @@ categories: [Writing]
 draft: false
 ---
 
-<iframe src="Scientific_Paper.pdf" width="100%" height="600px"></iframe>
+This was a final paper for a class about science communication for public audiences. Writing focused on being able to translate scientific findings to non-scientist audiences who still possessed some level of scientific knowledge or interest. This paper focuses the main human driven stressors to Giant Sequoias namely, altered fire regimes, prolonged drought, and pest diseases.
+
+<iframe src="Scientific_Paper.pdf" width="100%" height="600px">
+
+</iframe>
