@@ -61,13 +61,13 @@ site_map <- leaflet() %>%
 site_map
 ```
 
+## More details
 
-
-Over the summers of 2024 and 2025 I was able to be a part of a field crew based out of Sequoia national park analyzing ancient forest response to fire in areas of low, medium, medium-high, and high severity burn. We measured water potential and hydraulic capacity (water availability within the plants, and amount of air within the xylem representing dead tissue.) and regeneration via germination count at plots from the beginning to the end of the summer. 
+Over the summers of 2024 and 2025 I was able to be a part of a field crew based out of Sequoia national park analyzing ancient forests response to fire in areas of low, medium, medium-high, and high severity burn. We measured water potential and hydraulic capacity (water availability within the plants, and amount of air within the xylem representing dead tissue.) and regeneration via germination count at plots from the beginning to the end of the summer. 
 
 
 ::: {style="text-align: center;"}
-## Photos From Sequoia Naitonal Park: 
+### Sequoia Naitonal Park 
 ![](seki.png){.photo-border width="60%"}
 :::
 
@@ -80,10 +80,24 @@ In the summer of 2025 prior to going to Sequoia national park I was able to retu
 
 ::: {style="text-align: center;"}
 
-## Photos from French Polynesia 
+###  French Polynesia 
 
 ![](FP.png){.photo-border width="60%"}
 
 
 :::
+
+## Other Experiences 
+
+
+Other field experiences I have participated in have been a long term data collection project with the LEAF lab on the campus owned reserve Sedgwick. This has involved the collection of leaves at predawn and midday followed by immediate pressure bombing to assess drought tolerance and landscape scale response to dry and wet years across Coast Live Oaks and Blue Oaks. 
+
+Work on the Santa Clara river and Dangermond preserve was primarily the installation of Sapflow sensors to track the transpiration rates of various species, in Santa Clara specifically looking at the average water consumption of non-native Arundo Donax.  
+
+
+
+
+
+
+
 
